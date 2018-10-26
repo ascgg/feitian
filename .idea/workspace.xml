@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71c073bc-cda0-4817-b9ef-1a04ca76eac9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/semantic/src/definitions/behaviors/colorize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/semantic/src/definitions/behaviors/state.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/semantic/src/definitions/behaviors/visit.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.eot" afterPath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.ttf" afterPath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.woff" afterPath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.woff2" afterPath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic.json" afterPath="$PROJECT_DIR$/semantic.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/behaviors/api.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/behaviors/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/behaviors/form.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/behaviors/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/behaviors/visibility.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/behaviors/visibility.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/collections/form.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/collections/form.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/collections/grid.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/collections/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/collections/menu.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/collections/menu.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/collections/message.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/collections/message.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/collections/table.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/collections/table.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/button.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/button.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/header.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/header.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/icon.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/icon.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/image.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/image.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/input.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/input.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/label.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/label.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/list.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/loader.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/loader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/reveal.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/reveal.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/segment.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/segment.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/elements/step.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/elements/step.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/globals/site.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/globals/site.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/accordion.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/checkbox.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/checkbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/dimmer.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/dimmer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/dimmer.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/dimmer.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/dropdown.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/dropdown.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/dropdown.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/embed.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/embed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/modal.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/modal.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/modal.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/nag.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/nag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/popup.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/popup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/popup.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/popup.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/progress.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/progress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/rating.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/rating.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/rating.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/rating.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/search.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/search.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/search.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/shape.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/shape.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/sidebar.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/sidebar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/sidebar.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/sidebar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/sticky.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/tab.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/modules/transition.js" afterPath="$PROJECT_DIR$/semantic/src/definitions/modules/transition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/views/card.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/views/card.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/definitions/views/statistic.less" afterPath="$PROJECT_DIR$/semantic/src/definitions/views/statistic.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/theme.less" afterPath="$PROJECT_DIR$/semantic/src/theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.svg" afterPath="$PROJECT_DIR$/semantic/src/themes/default/assets/fonts/icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/collections/breadcrumb.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/collections/breadcrumb.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/collections/form.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/collections/form.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/collections/menu.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/collections/menu.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/collections/message.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/collections/message.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/collections/table.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/collections/table.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/button.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/button.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/divider.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/divider.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/flag.overrides" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/flag.overrides" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/header.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/header.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/icon.overrides" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/icon.overrides" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/icon.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/icon.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/label.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/label.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/list.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/list.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/loader.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/loader.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/reveal.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/reveal.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/segment.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/segment.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/elements/step.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/elements/step.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/globals/reset.overrides" afterPath="$PROJECT_DIR$/semantic/src/themes/default/globals/reset.overrides" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/globals/site.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/globals/site.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/accordion.overrides" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/accordion.overrides" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/accordion.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/accordion.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/checkbox.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/checkbox.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/dimmer.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/dimmer.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/dropdown.overrides" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/dropdown.overrides" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/dropdown.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/dropdown.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/modal.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/modal.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/popup.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/popup.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/progress.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/progress.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/search.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/search.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/modules/transition.overrides" afterPath="$PROJECT_DIR$/semantic/src/themes/default/modules/transition.overrides" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/views/ad.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/views/ad.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/views/card.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/views/card.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/views/comment.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/views/comment.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/views/feed.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/views/feed.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/views/item.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/views/item.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/src/themes/default/views/statistic.variables" afterPath="$PROJECT_DIR$/semantic/src/themes/default/views/statistic.variables" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/admin/components/create.js" afterPath="$PROJECT_DIR$/semantic/tasks/admin/components/create.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/admin/components/init.js" afterPath="$PROJECT_DIR$/semantic/tasks/admin/components/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/admin/components/update.js" afterPath="$PROJECT_DIR$/semantic/tasks/admin/components/update.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/admin/distributions/update.js" afterPath="$PROJECT_DIR$/semantic/tasks/admin/distributions/update.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/admin/register.js" afterPath="$PROJECT_DIR$/semantic/tasks/admin/register.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/build/css.js" afterPath="$PROJECT_DIR$/semantic/tasks/build/css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/build/javascript.js" afterPath="$PROJECT_DIR$/semantic/tasks/build/javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/collections/internal.js" afterPath="$PROJECT_DIR$/semantic/tasks/collections/internal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/config/admin/release.js" afterPath="$PROJECT_DIR$/semantic/tasks/config/admin/release.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/config/defaults.js" afterPath="$PROJECT_DIR$/semantic/tasks/config/defaults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/config/project/install.js" afterPath="$PROJECT_DIR$/semantic/tasks/config/project/install.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/config/tasks.js" afterPath="$PROJECT_DIR$/semantic/tasks/config/tasks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/docs/build.js" afterPath="$PROJECT_DIR$/semantic/tasks/docs/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/docs/serve.js" afterPath="$PROJECT_DIR$/semantic/tasks/docs/serve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/install.js" afterPath="$PROJECT_DIR$/semantic/tasks/install.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/rtl/build.js" afterPath="$PROJECT_DIR$/semantic/tasks/rtl/build.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/rtl/watch.js" afterPath="$PROJECT_DIR$/semantic/tasks/rtl/watch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic/tasks/watch.js" afterPath="$PROJECT_DIR$/semantic/tasks/watch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/browser/util/models/index.js" afterPath="$PROJECT_DIR$/src/browser/util/models/index.js" />
+    </list>
+    <ignored path="military-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="military-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="win32.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/menu/win32.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/util/models/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="semantic.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/semantic.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/util/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remote.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/remote.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="write.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/util/write.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2090">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sync.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/util/sync.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16095">
+              <caret line="1073" column="39" lean-forward="false" selection-start-line="1073" selection-start-column="39" selection-end-line="1073" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/browser/util/read.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-880">
+              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>remove</find>
+      <find>d</find>
+      <find>fei tian</find>
+      <find>飞天</find>
+      <find>s</find>
+      <find>semanti</find>
+      <find>semantic</find>
+      <find>open-save-dialog</find>
+      <find>fei-tian:new-table</find>
+      <find>forE</find>
+      <find>tableForming1</find>
+      <find>installer</find>
+      <find>re</find>
+      <find>refs</find>
+      <find>ref</find>
+      <find>textField</find>
+      <find>select2</find>
+      <find>msg</find>
+      <find>jquery</find>
+      <find>0</find>
+      <find>00</find>
+      <find>0000</find>
+      <find>00000</find>
+      <find>000000</find>
+      <find>0000000</find>
+      <find>00000000</find>
+      <find>000000000</find>
+      <find>0000000000</find>
+      <find>000000000000</find>
+      <find>00000000000</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/browser</dir>
+      <dir>$PROJECT_DIR$/src/renderer/components</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/browser/remote.js" />
+        <option value="$PROJECT_DIR$/semantic/tasks/config/tasks.js" />
+        <option value="$PROJECT_DIR$/semantic/src/definitions/modules/modal.less" />
+        <option value="$PROJECT_DIR$/src/renderer/components/TableModal.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ReadOnlyGrid.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/index.html" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectMainFilter.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectMainFilterSection.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectL2istItem.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/App.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectTableFilterSection.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectAddModal.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectFilter.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ImportModal.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Header.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/UserLogin.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ConstructionQuantityColumnsAdmin.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ConstructionQuantityColumnsUser.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ManMachineColumnsAdmin.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Projects.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/_breakpoint.scss" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectList.scss" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectList.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/StatisticsGrid.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/App.css" />
+        <option value="$PROJECT_DIR$/src/browser/util/encrypt.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectListItem.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/AdminTables.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/EditableGrid.jsx" />
+        <option value="$PROJECT_DIR$/src/browser/util/encrypt-decrypt.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/UserCreate.jsx" />
+        <option value="$PROJECT_DIR$/webpack.prod.config.js" />
+        <option value="$PROJECT_DIR$/build/package.json" />
+        <option value="$PROJECT_DIR$/src/renderer/components/PasswordChange.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/Message.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ConstructionDetailStatistics.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ManMachineDetailStatistics.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ManMachineStatistics.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ConstructionStatistics.jsx" />
+        <option value="$PROJECT_DIR$/src/browser/util/write.js" />
+        <option value="$PROJECT_DIR$/src/renderer/components/StatisticsModal.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/StatisticsDetailModal.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/entry.jsx" />
+        <option value="$PROJECT_DIR$/src/renderer/components/ProjectPage.jsx" />
+        <option value="$PROJECT_DIR$/build/browser/app.js" />
+        <option value="$PROJECT_DIR$/src/browser/app.js" />
+        <option value="$PROJECT_DIR$/src/browser/menu/darwin.js" />
+        <option value="$PROJECT_DIR$/src/browser/util/sync.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/browser/util/auth.js" />
+        <option value="$PROJECT_DIR$/src/browser/util/models/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/build/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renderer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="renderer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="browser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="browser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="browser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="browser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="military-app的副本" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darwin-x64-57" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/pasha/military-app/src/renderer/components/ConstructionDetailStatistics.jsx&#10;console&#9;null&#9;null&#10;getProjects&#9;null&#9;null&#10;background&#9;null&#9;null&#10;storage&#9;null&#9;null&#10;sqlite&#9;FILE&#9;file:///Users/pasha/military-app/node_modules/sqlite3/deps/sqlite-autoconf-3150000.tar.gz&#10;modelRepo&#9;null&#9;null&#10;totalManMachineProjects&#9;null&#9;null&#10;manMachine&#9;FILE&#9;file:///Users/pasha/military-app/src/renderer/components/ManMachineColumnsAdmin.jsx&#10;getPro&#9;null&#9;null&#10;getpro&#9;null&#9;null&#10;listWater&#9;null&#9;null&#10;mainDrop&#9;null&#9;null&#10;success&#9;null&#9;null&#10;tiny error&#9;null&#9;null&#10;errorHelper&#9;null&#9;null&#10;onOKClick&#9;null&#9;null&#10;importModal&#9;null&#9;null&#10;onRemoveRowClick&#9;null&#9;null&#10;EditableGrid&#9;null&#9;null&#10;refs&#9;FILE&#9;file:///Users/pasha/military-app/node_modules/react-dom/lib/ReactFiberScheduler.js&#10;errorHandler&#9;null&#9;null&#10;getTable&#9;null&#9;null&#10;createUser&#9;null&#9;null&#10;admin&#9;FILE&#9;file:///Users/pasha/military-app/semantic/tasks/collections/admin.js&#10;UserLogin&#9;null&#9;null&#10;children&#9;null&#9;null&#10;dialog&#9;null&#9;null&#10;backend&#9;null&#9;null&#10;onItemClick&#9;null&#9;null" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/node_modules/xlsx/xlsx.js&#10;/Users/pasha/military-app/node_modules/sqlite3/README.md" />
+    <property name="editorconfig.notification" value="spaces" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/renderer/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.ProjectListItem.jsx">
+    <configuration default="false" name="ProjectListItem.jsx" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ProjectListItem.jsx" working-dir="$PROJECT_DIR$/src/renderer/components">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.ProjectListItem.jsx" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ProjectListItem.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c073bc-cda0-4817-b9ef-1a04ca76eac9" name="Default" comment="" />
+      <created>1489987174686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489987174686</updated>
+      <workItem from="1489987175978" duration="1331000" />
+      <workItem from="1489994888638" duration="168000" />
+      <workItem from="1489997686945" duration="33713000" />
+      <workItem from="1490239651849" duration="28193000" />
+      <workItem from="1490334221912" duration="17260000" />
+      <workItem from="1490595622218" duration="15671000" />
+      <workItem from="1490682268705" duration="17043000" />
+      <workItem from="1490764755764" duration="10498000" />
+      <workItem from="1490842471154" duration="12142000" />
+      <workItem from="1490862754865" duration="120000" />
+      <workItem from="1490863051423" duration="40619000" />
+      <workItem from="1491294115462" duration="47355000" />
+      <workItem from="1491891463684" duration="48421000" />
+      <workItem from="1492163504466" duration="7808000" />
+      <workItem from="1492414555760" duration="43861000" />
+      <workItem from="1493691638244" duration="9922000" />
+      <workItem from="1493723972221" duration="67406000" />
+      <workItem from="1494299793563" duration="660000" />
+      <workItem from="1494386885171" duration="46000" />
+      <workItem from="1494387068672" duration="3101000" />
+      <workItem from="1494469260271" duration="2762000" />
+      <workItem from="1494561983695" duration="14119000" />
+      <workItem from="1494590158817" duration="14269000" />
+      <workItem from="1495080695555" duration="4188000" />
+      <workItem from="1495424694828" duration="5149000" />
+      <workItem from="1496218961611" duration="10000" />
+      <workItem from="1496218998301" duration="87000" />
+      <workItem from="1496729045786" duration="1528000" />
+      <workItem from="1497942126128" duration="206000" />
+      <workItem from="1498401026599" duration="1491000" />
+      <workItem from="1498441510811" duration="192000" />
+      <workItem from="1498467589335" duration="227000" />
+      <workItem from="1498715845604" duration="1145000" />
+      <workItem from="1500439382206" duration="6969000" />
+      <workItem from="1500462919549" duration="692000" />
+      <workItem from="1500517226460" duration="299000" />
+      <workItem from="1500517893457" duration="1371000" />
+      <workItem from="1500525881964" duration="1183000" />
+      <workItem from="1500531321754" duration="1184000" />
+      <workItem from="1500542104970" duration="38000" />
+      <workItem from="1500542300082" duration="75000" />
+      <workItem from="1500601474271" duration="916000" />
+      <workItem from="1502606206043" duration="2265000" />
+      <workItem from="1502675925478" duration="2229000" />
+      <workItem from="1502679045353" duration="6260000" />
+      <workItem from="1502702437997" duration="8000" />
+      <workItem from="1502706151617" duration="1052000" />
+      <workItem from="1502772144163" duration="1118000" />
+      <workItem from="1502871910424" duration="56000" />
+      <workItem from="1502872045727" duration="1306000" />
+      <workItem from="1502934216268" duration="4601000" />
+      <workItem from="1503020573192" duration="641000" />
+      <workItem from="1503033114879" duration="742000" />
+      <workItem from="1503039808064" duration="715000" />
+      <workItem from="1503464217157" duration="1986000" />
+      <workItem from="1503538870774" duration="1752000" />
+      <workItem from="1503559211132" duration="383000" />
+      <workItem from="1503887472212" duration="807000" />
+      <workItem from="1504149250799" duration="186000" />
+      <workItem from="1504586760467" duration="1366000" />
+      <workItem from="1504590547881" duration="597000" />
+      <workItem from="1504841313653" duration="20000" />
+      <workItem from="1505874782684" duration="1755000" />
+      <workItem from="1514349794648" duration="95000" />
+      <workItem from="1524102994496" duration="478000" />
+      <workItem from="1540522269573" duration="2658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="496514000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27906978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294686" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/StatisticsDetailModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="247" column="107" lean-forward="false" selection-start-line="247" selection-start-column="100" selection-end-line="247" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/StatisticsGrid.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ConstructionQuantityColumnsAdmin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-933">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ManMachineColumnsAdmin.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2889">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ConstructionQuantityColumnsUser.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2667">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ConstructionDetailStatistics.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/PromptModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/Projects.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ProjectListItem.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/StringCellEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/UserCreate.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/TypeFilter.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/Message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ManMachineDetailStatistics.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ImportModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/browser/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="61" lean-forward="false" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/browser/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/browser/util/encrypt-decrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/browser/util/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/browser/util/read.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/browser/util/sync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/entry.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ProjectList.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ProjectPage.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="224" column="32" lean-forward="false" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/electron/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/node-sass/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/NumberCellEditor.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="35" lean-forward="false" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/EditableGrid.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2625">
+          <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <marker date="1494215067000" expanded="true" signature="4995:5055" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ProjectEditModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-868">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/ProjectList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/StatisticsModal.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2233">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/components/UserHeader.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/encrypt-decrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="838">
+          <caret line="70" column="25" lean-forward="false" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/menu/darwin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/menu/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/menu/linux.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/auto-updater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1105">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/remote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/write.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2090">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/sync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16095">
+          <caret line="1073" column="39" lean-forward="false" selection-start-line="1073" selection-start-column="39" selection-end-line="1073" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/read.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-880">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/menu/win32.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/browser/util/models/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

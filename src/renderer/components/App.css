@@ -1,0 +1,51 @@
+body {
+    background-color: #FFFFF0;
+}
+
+.title {
+    -webkit-user-select: none;
+}
+
+.description {
+    -webkit-user-select: none;
+}
+
+.header {
+    -webkit-user-select: none;
+}
+
+.button {
+    -webkit-user-select: none;
+}
+
+.ui.input {
+    -webkit-user-select: none;
+}
+
+.ui.dropdown.selection {
+    -webkit-user-select: none;
+}
+
+.ui.left.icon.input {
+    -webkit-user-select: none;
+}
+
+.ui.message {
+    -webkit-user-select: none;
+}
+
+label {
+    -webkit-user-select: none;
+}
+
+textarea {
+    -webkit-user-select: none;
+}
+
+.ui.scrolling.dropdown .menu {
+    max-height: 50rem;
+}
+
+.ui.dropdown .menu > .header {
+    font-size: 1em;
+}
